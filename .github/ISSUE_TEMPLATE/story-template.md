@@ -1,6 +1,6 @@
 ---
 name: Story Template
-about: Describe this issue template's purpose here.
+about: This template provides structure to create a stroy. 
 title: ''
 labels: refinement, story
 assignees: ''
